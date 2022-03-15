@@ -1,5 +1,5 @@
 *This text will be italic*
-_This will also be italic_
+_This will also be italsic_
 
 **This text will be bold**
 __This will also be bold__
